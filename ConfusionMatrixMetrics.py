@@ -40,6 +40,6 @@ if __name__ == "__main__":
    import numpy as np
    array = np.array([[2979, 2604, 2947],   [2085, 4311, 1936], [2566, 2534, 3238]])
    C = ConfusionMatrixMetrics()
-   D = ConfusionMatrixMetrics()
+   E = ConfusionMatrixMetrics()
    TPR,TNR,PPV,NPV,FPR,FNR,FDR,ACC = C.getConfusionMatricMetrics(array)
    print(TPR,TNR,PPV,NPV,FPR,FNR,FDR,ACC)
