@@ -7,6 +7,7 @@ class ConfusionMatrixMetrics:
     # "FN of C1" is all C1 instances that are not classified as C1
     # "TN of C1" is all non-C1 instances that are not classified as C1.
     # "FP of C1" is all non-C1 instances that are classified as C1.
+    @staticmethod
     def getMetrics(cnf_matrix):
       import numpy as np
       FP = cnf_matrix.sum(axis=0) - np.diag(cnf_matrix)
