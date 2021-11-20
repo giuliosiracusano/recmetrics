@@ -1,4 +1,4 @@
-class ConfusionMatrixMetrics:
+#class ConfusionMatrixMetrics:
     ## Utility functions
     # https://stackoverflow.com/questions/55635406/how-to-calculate-multiclass-overall-accuracy-sensitivity-and-specificity
     # https://towardsdatascience.com/multi-class-classification-extracting-performance-metrics-from-the-confusion-matrix-b379b427a872
@@ -7,8 +7,7 @@ class ConfusionMatrixMetrics:
     # "FN of C1" is all C1 instances that are not classified as C1
     # "TN of C1" is all non-C1 instances that are not classified as C1.
     # "FP of C1" is all non-C1 instances that are classified as C1.
-    @staticmethod
-    def getMetrics(cnf_matrix):
+def getMetrics(cnf_matrix):
       import numpy as np
       FP = cnf_matrix.sum(axis=0) - np.diag(cnf_matrix)
       FN = cnf_matrix.sum(axis=1) - np.diag(cnf_matrix)
@@ -40,5 +39,5 @@ class ConfusionMatrixMetrics:
 if __name__ == "__main__":
    import numpy as np
    array = np.array([[2979, 2604, 2947],   [2085, 4311, 1936], [2566, 2534, 3238]])
-   TPR,TNR,PPV,NPV,FPR,FNR,FDR,ACC = ConfusionMatrixMetrics.getMetrics(array)
+   TPR,TNR,PPV,NPV,FPR,FNR,FDR,ACC = getMetrics(array)
    print(TPR,TNR,PPV,NPV,FPR,FNR,FDR,ACC)
