@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2319e1d4-ce8a-4c19-b0ae-0f577c4906ce" name="Default Changelist" comment="" />
+    <list default="true" id="2319e1d4-ce8a-4c19-b0ae-0f577c4906ce" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +15,14 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Giulio Siracusano" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GithubDefaultAccount">
     <option name="defaultAccountId" value="defb7604-e4ca-40be-945a-1fb451f7dbb9" />
@@ -80,7 +90,30 @@
       <option name="presentableId" value="Default" />
       <updated>1583498652307</updated>
     </task>
+    <task id="LOCAL-00001" summary="Third commit">
+      <created>1637408116090</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1637408116090</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Third commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Third commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1272" y="634" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1637406242784">
@@ -91,10 +124,14 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1317" y="510" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1400@0.0.2560.1400" timestamp="1637404983286" />
-    <state x="1304" y="559" key="FileChooserDialogImpl" timestamp="1637406155424">
+    <state x="1013" y="356" key="CommitChangelistDialog2" timestamp="1637408112797">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1304" y="559" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1637406155424" />
+    <state x="1013" y="356" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1637408112797" />
+    <state x="1304" y="559" key="FileChooserDialogImpl" timestamp="1637408064702">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1304" y="559" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1637408064702" />
     <state x="1350" y="709" width="346" height="162" key="Github.CreateGistDialog" timestamp="1637405011031">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -103,29 +140,33 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1391" y="690" width="259" height="200" key="Github.ShareDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1637406283582" />
-    <state width="1762" height="302" key="GridCell.Tab.0.bottom" timestamp="1637405525565">
+    <state width="1762" height="302" key="GridCell.Tab.0.bottom" timestamp="1637408136722">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1762" height="302" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1637405525565" />
-    <state width="1762" height="302" key="GridCell.Tab.0.center" timestamp="1637405525560">
+    <state width="1762" height="302" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1637408136722" />
+    <state width="1762" height="302" key="GridCell.Tab.0.center" timestamp="1637408136722">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1762" height="302" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1637405525560" />
-    <state width="1762" height="302" key="GridCell.Tab.0.left" timestamp="1637405525560">
+    <state width="1762" height="302" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1637408136722" />
+    <state width="1762" height="302" key="GridCell.Tab.0.left" timestamp="1637408136722">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1762" height="302" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1637405525560" />
-    <state width="1762" height="302" key="GridCell.Tab.0.right" timestamp="1637405525560">
+    <state width="1762" height="302" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1637408136722" />
+    <state width="1762" height="302" key="GridCell.Tab.0.right" timestamp="1637408136722">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1762" height="302" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1637405525560" />
+    <state width="1762" height="302" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1637408136722" />
     <state x="1015" y="436" key="SettingsEditor" timestamp="1637406202963">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1015" y="436" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1637406202963" />
-    <state x="712" y="335" width="1598" height="910" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1637405631252">
+    <state x="960" y="495" key="Vcs.Push.Dialog.v2" timestamp="1637408236631">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="712" y="335" width="1598" height="910" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1637405631252" />
+    <state x="960" y="495" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1637408236631" />
+    <state x="712" y="335" width="1598" height="910" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1637408088410">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="712" y="335" width="1598" height="910" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1637408088410" />
   </component>
 </project>

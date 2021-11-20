@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 from matplotlib.lines import Line2D
 from sklearn.metrics import roc_curve, auc, precision_recall_curve, average_precision_score
 import plotly.graph_objects as go
-from funcsigs import signature
+#from funcsigs import signature
 
 
 def long_tail_plot(df, item_id_column, interaction_type, percentage=None, x_labels=True):
