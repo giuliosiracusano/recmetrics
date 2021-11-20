@@ -1,6 +1,6 @@
 class ConfusionMatrixMetrics:
     ## Utility functions
-
+    import numpy as np
     # https://stackoverflow.com/questions/55635406/how-to-calculate-multiclass-overall-accuracy-sensitivity-and-specificity
     # https://towardsdatascience.com/multi-class-classification-extracting-performance-metrics-from-the-confusion-matrix-b379b427a872
     # Total Sensitivity of each class can be calculated from its TP/(TP+FN)
