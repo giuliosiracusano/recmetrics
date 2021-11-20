@@ -41,7 +41,7 @@
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunManager">
-    <configuration name="ConfusionMatrixMetrics" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="confusionmatrixmetrics" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="recmetrics" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -53,7 +53,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ConfusionMatrixMetrics.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\GiulioSiracusano\Anaconda3\Lib\site-packages\recmetrics\confusionmatrixmetrics.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -64,7 +64,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.ConfusionMatrixMetrics" />
+        <item itemvalue="Python.confusionmatrixmetrics" />
       </list>
     </recent_temporary>
   </component>
@@ -205,10 +205,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1317" y="510" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1400@0.0.2560.1400" timestamp="1637404983286" />
-    <state x="1013" y="356" key="CommitChangelistDialog2" timestamp="1637425094791">
+    <state x="1013" y="356" key="CommitChangelistDialog2" timestamp="1637425602345">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1013" y="356" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1637425094791" />
+    <state x="1013" y="356" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1637425602345" />
     <state x="1304" y="559" key="FileChooserDialogImpl" timestamp="1637408064702">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
