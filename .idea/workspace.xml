@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2319e1d4-ce8a-4c19-b0ae-0f577c4906ce" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="defb7604-e4ca-40be-945a-1fb451f7dbb9" />
+  </component>
+  <component name="ProjectId" id="1YktvnWjlwSnTHqSCTwc6qqToua" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunManager">
+    <configuration name="ConfusionMatrixMetrics" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="recmetrics" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ConfusionMatrixMetrics.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.ConfusionMatrixMetrics" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\GiulioSiracusano\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2319e1d4-ce8a-4c19-b0ae-0f577c4906ce" name="Default Changelist" comment="" />
+      <created>1583498652307</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583498652307</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1272" y="634" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1637406242784">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1272" y="634" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1637406242784" />
+    <state x="1317" y="510" key="#com.intellij.ide.util.MemberChooser" timestamp="1637404983286">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1317" y="510" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1400@0.0.2560.1400" timestamp="1637404983286" />
+    <state x="1304" y="559" key="FileChooserDialogImpl" timestamp="1637406155424">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1304" y="559" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1637406155424" />
+    <state x="1350" y="709" width="346" height="162" key="Github.CreateGistDialog" timestamp="1637405011031">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1350" y="709" width="346" height="162" key="Github.CreateGistDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1637405011031" />
+    <state x="1391" y="690" width="259" height="200" key="Github.ShareDialog" timestamp="1637406283582">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1391" y="690" width="259" height="200" key="Github.ShareDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1637406283582" />
+    <state width="1762" height="302" key="GridCell.Tab.0.bottom" timestamp="1637405525565">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1762" height="302" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1637405525565" />
+    <state width="1762" height="302" key="GridCell.Tab.0.center" timestamp="1637405525560">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1762" height="302" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1637405525560" />
+    <state width="1762" height="302" key="GridCell.Tab.0.left" timestamp="1637405525560">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1762" height="302" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1637405525560" />
+    <state width="1762" height="302" key="GridCell.Tab.0.right" timestamp="1637405525560">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1762" height="302" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1637405525560" />
+    <state x="1015" y="436" key="SettingsEditor" timestamp="1637406202963">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1015" y="436" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1637406202963" />
+    <state x="712" y="335" width="1598" height="910" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1637405631252">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="712" y="335" width="1598" height="910" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1637405631252" />
+  </component>
+</project>
