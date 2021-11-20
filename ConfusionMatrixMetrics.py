@@ -8,7 +8,7 @@ class ConfusionMatrixMetrics:
     # "FN of C1" is all C1 instances that are not classified as C1
     # "TN of C1" is all non-C1 instances that are not classified as C1.
     # "FP of C1" is all non-C1 instances that are classified as C1.
-    def getConfusionMatricMetrics(self,cnf_matrix):
+    def getMetrics(cnf_matrix):
       FP = cnf_matrix.sum(axis=0) - np.diag(cnf_matrix)
       FN = cnf_matrix.sum(axis=1) - np.diag(cnf_matrix)
       TP = np.diag(cnf_matrix)
@@ -39,7 +39,5 @@ class ConfusionMatrixMetrics:
 if __name__ == "__main__":
    import numpy as np
    array = np.array([[2979, 2604, 2947],   [2085, 4311, 1936], [2566, 2534, 3238]])
-   C = ConfusionMatrixMetrics()
-   E = ConfusionMatrixMetrics()
-   TPR,TNR,PPV,NPV,FPR,FNR,FDR,ACC = C.getConfusionMatricMetrics(array)
+   TPR,TNR,PPV,NPV,FPR,FNR,FDR,ACC = ConfusionMatrixMetrics.getMetrics(array)
    print(TPR,TNR,PPV,NPV,FPR,FNR,FDR,ACC)
